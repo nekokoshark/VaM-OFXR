@@ -1,0 +1,12 @@
+{
+  "file_format_version": "1.0.0",
+  "api_layer": {
+    "name": "XR_APILAYER_XRFrameBridge_diagnostic",
+    "library_path": "../runtime/XR_APILAYER_XRFrameBridge_diagnostic.dll",
+    "api_version": "1.0",
+    "implementation_version": "68",
+    "description": "VaM OFXR Standard dynamic cover (test build)",
+    "disable_environment": "XRFG_DISABLE_OFXR_BRIDGE",
+    "enable_environment": "VAM_ENABLE_OFXR"
+  }
+}

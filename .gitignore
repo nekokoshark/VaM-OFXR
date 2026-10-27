@@ -1,0 +1,5 @@
+build/
+*.obj
+*.pdb
+*.log
+__pycache__/

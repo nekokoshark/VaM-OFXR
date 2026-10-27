@@ -1,0 +1,12 @@
+Standard build validation (2026-10-28): PASS
+XRFG_SERIALIZE_NVAPI_VRS=OFF; 2 D3D11 hooks; no NVAPI query path.
+19 hardware/WARP creation cases and bootstrap cycles: PASS.
+8 fractional-rate deterministic timelines: PASS.
+Real NVIDIA GPU stereo dynamic predictions, busy-queue and bounds: PASS.
+Private runtime dynamic/timeout/budget/split-eye ownership: PASS.
+21 ordinary-mode regression tests: PASS.
+Independent-copy rollback to baseline: PASS (five-slot behavior retained).
+Clean source+bundled-dependency rebuild: PASS.
+Install/uninstall, duplicate-install rejection, existing-runtime preservation: PASS.
+VC redist Microsoft Authenticode signature: Valid.
+Actual HMD visual/latency/VR-to-desktop acceptance: not performed for this standard package.
